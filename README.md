@@ -1,7 +1,7 @@
 
 
 
-# 💫 About Me:
+# 💫 Hi, I'm Elizabeth:
 🔭Computer Science Engineering at Benemérita Universidad Autónoma de Puebla<br>👯 I love spend my time w/ friends and I like solve sudokus<br>🤝 I’m looking for help with frontend resources<br>🌱 Currently learning Frontend in "Technolochicas" and Azure in "Microsoft"
 
 
